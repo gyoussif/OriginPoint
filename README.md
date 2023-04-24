@@ -1,8 +1,8 @@
 # OriginPoint
 #### ToDo
 - Stealth finish
-- Fix attack reaction 3rd Person
-- Grapple
+- Improve attack reaction 3rd Person
+- Grapple hook
 - Super speed
 - Flight
 - Crouching
