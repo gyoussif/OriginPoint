@@ -7,6 +7,7 @@
 - AI search and attack
 - Climb and vaulting
 - Sprint
+- Character selection
 ## Characters
 - Gamora
 ## Map
@@ -22,7 +23,6 @@
 - Companion
 - Counter
 - Weapons
-- Character selection
 - Wall run
 ## Characters To Add
 - Hulk
