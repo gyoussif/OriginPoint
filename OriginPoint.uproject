@@ -12,6 +12,11 @@
 			"Name": "DazToUnreal",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/070a312bc04c48bcb1a4d193aaddf73e"
+		},
+		{
+			"Name": "GBWThrow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4791c945eada4b258c3e9796dd1c43fb"
 		}
 	]
 }
